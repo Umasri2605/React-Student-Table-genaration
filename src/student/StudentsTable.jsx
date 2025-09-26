@@ -34,7 +34,7 @@ function StudentsTable(){
                     <td>{student.motherName}</td>
                 </tr>
               )
-            })
+            });
           }
         </table>
     )
